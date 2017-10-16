@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DateAndTimeApplication</string>
+    <string name="getDateTime">Go to Calendar</string>
+</resources>
